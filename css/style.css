@@ -1,0 +1,185 @@
+.body{
+    background-color: #313131; 
+}
+
+.wrapper{
+    height: 100vh;
+    width: 100vw;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    background-image: url('champions-top.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.top{
+    background-color: #0d3aff;
+    width: 100vw;
+    height: 14vh;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: #0d3aff;
+    box-shadow: 0px 8px 8px #00000040;
+}
+
+.footer{
+    background-color: #0d3aff;
+    width: 100vw;
+    height: 6vh;
+    top: 94vh;
+    left: 0px;
+    position: absolute;
+    background: #0d3aff;
+    box-shadow: inset 0px 5px 9px #00000040;
+}
+
+.logo{
+    max-width: 15vw;
+    max-height: 14vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.imagem-jogo{
+    width: 700px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-left: 0%;
+    margin-top: 200px;
+    
+}
+
+.grupos{
+    max-width: 60px;
+    max-height: 60px;
+    display: block;
+    margin-left: 8%;
+    margin-right: 1195px;
+    margin-top: -23px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center
+    
+}
+
+.grupos:hover{
+    color: #000000;
+    border-radius: 3px;
+    background-color: #04fdd3;
+}
+
+.clubes{
+    max-width: 60px;
+    max-height: 60px;
+    display: block;
+    margin-left: 19%;
+    margin-right: 1050px;
+    margin-top: -19px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.clubes:hover{
+    color: #000000;
+    border-radius: 3px;
+    background-color: #04fdd3;
+}
+
+.estatisticas{
+    max-width: 120px;
+    max-height: 120px;
+    display: block;
+    margin-left: 30%;
+    margin-right: 863px;
+    margin-top: -19px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.estatisticas:hover{
+    color: #000000;
+    border-radius: 3px;
+    background-color: #04fdd3;
+}
+
+.artilheiros{
+    max-width: 120px;
+    max-height: 120px;
+    display: block;
+    margin-left: 63%;
+    margin-right: 422px;
+    margin-top: -19px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.artilheiros:hover{
+    color: #000000;
+    border-radius: 3px;
+    background-color: #04fdd3;
+}
+
+.assistentes{
+    max-width: 120px;
+    max-height: 120px;
+    display: block;
+    margin-left: 74%;
+    margin-right: 265px;
+    margin-top: -19px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.assistentes:hover{
+    color: #000000;
+    border-radius: 3px;
+    background-color: #04fdd3;
+}
+
+.historia{
+    max-width: 120px;
+    max-height: 120px;
+    display: block;
+    margin-left: 85%;
+    margin-right: 142px;
+    margin-top: -19px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.historia:hover{
+    color: #000000;
+    border-radius: 3px;
+    background-color: #04fdd3;
+}
+
+#link{
+    color:#ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    style
+}
+
+#link:hover{
+    color: #000000;
+    border-radius: 3px;
+    background-color: #04fdd3;
+} 
+
+.imagem-jogo{
+    margin-left: 10%;
+    margin-top: 15%;
+    display: block;
+    max-width: 400px;
+    height: 300px;
+}
