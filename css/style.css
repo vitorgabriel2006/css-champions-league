@@ -177,9 +177,20 @@
 } 
 
 .imagem-jogo{
-    margin-left: 10%;
-    margin-top: 15%;
+    margin-left: 0%;
+    margin-top: 18%;
     display: block;
-    max-width: 400px;
-    height: 300px;
+    max-width: 689px;
+    max-height: 164px;
 }
+
+.inicio{
+    width: 210px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-left: 0%;
+    margin-top: 7%;
+}
+
