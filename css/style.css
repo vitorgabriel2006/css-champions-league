@@ -194,3 +194,18 @@
     margin-top: 7%;
 }
 
+.imagem-grupos{
+    position: absolute;
+    max-width: 40vw;
+    max-height: 79vh;
+    margin-left: 10%;
+    margin-top: 8%;
+}
+
+.img-clubes{
+    position: absolute;
+    max-width: 53.8vw;
+    max-height: 79vh;
+    margin-left: 0%;
+    margin-top: 13%;
+}
