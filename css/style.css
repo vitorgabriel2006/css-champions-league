@@ -204,8 +204,17 @@
 
 .img-clubes{
     position: absolute;
-    max-width: 53.8vw;
+    max-width: 50.5vw;
     max-height: 79vh;
     margin-left: 0%;
     margin-top: 13%;
+}
+
+
+.partidas{
+    position: absolute;
+    max-width: 100vw;
+    max-height: 100vh;
+    margin-top: 10.5%;
+    margin-left: 0%;
 }
