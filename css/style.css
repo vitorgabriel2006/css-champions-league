@@ -156,6 +156,7 @@
     color: #ffffff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    position: absolute;
 }
 
 .historia:hover{
@@ -225,6 +226,23 @@
     margin-left: 0%;
     width: 53.5%;
     height: 53.5%;
+}
 
+.text-footer{
+   margin-top: 8px;
+   margin-left: 300px;
+   font-size: 20px; 
+   color: #ffffffa2;
+}
+
+.div-text2-footer{
+    margin-top: -37px;
+    margin-left: 930px;
+}
+
+.text-footer2{
+    font-size: 20px;
+    color: #ffffffa2;
 
 }
+
