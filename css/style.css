@@ -223,9 +223,9 @@
 .artilheiros_foto{
     position: absolute;
     margin-top: 13%;
-    margin-left: 0%;
-    width: 53.5%;
-    height: 53.5%;
+    margin-left: 1%;
+    width: 49.8%;
+    height: 50.5%;
 }
 
 .text-footer{
@@ -245,4 +245,41 @@
     color: #ffffffa2;
 
 }
+
+.assistentes-imagem{
+    position: absolute;
+    margin-top: 11%;
+    margin-left: 1%;
+    width: 49.7%;
+    height: 50.5;
+}
+
+.text-historia{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 1%;
+    width: 58%;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text2-historia{
+    position: absolute;
+    margin-top: 23%;
+    margin-left: 1%;
+    width: 58%;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+.github{
+    position: absolute;
+    max-width: 70%;
+    max-height: 85%;
+    margin-top: -43px;
+    margin-left: 875px;
+    z-index: 1;
+}
+
 
